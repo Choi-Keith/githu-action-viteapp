@@ -2,6 +2,7 @@
   "name": "github-action-viteapp",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://Choi-Keith.github.io/github-actions-viteapp",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
