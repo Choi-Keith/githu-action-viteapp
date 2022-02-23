@@ -10,7 +10,7 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v2
       with:
-      persist-credentials: false
+        persist-credentials: false
 
     - name: Build and Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v4
